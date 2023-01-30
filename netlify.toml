@@ -1,3 +1,7 @@
 [[edge_functions]]
 path = "/fonts/*"
 function = "fonts"
+
+[[edge_functions]]
+path = "/recommended-collection"
+function = "recommended-collection"
